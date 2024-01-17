@@ -1,0 +1,3 @@
+streamlit      ## create and share beautiful, custom web apps for machine learning and data science.
+google-generativeai   ## 
+python-dotenv   ## helps to manage and control the environment variables for your Python application.
