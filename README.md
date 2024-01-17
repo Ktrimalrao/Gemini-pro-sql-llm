@@ -1,4 +1,4 @@
-# Generative AI
+# Generative AI [Gemini Pro] in SQL_LLM
 
 ## Steps:
 - "Add your API Key in '.env' file "
