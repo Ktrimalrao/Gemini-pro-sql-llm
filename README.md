@@ -4,6 +4,10 @@ The **SQL Query Retrieval Using Gemini LLM** project is a natural language proce
 
 ---
 
+![image alt](https://github.com/Ktrimalrao/Gemini-pro-sql-llm/blob/b6b4ab865a5fabdf02d082bf2698dcaa06c5172f/Screenshot%202024-12-28%20211436.png)
+
+---
+
 ## Table of Contents
 - [Usage](#usage)
 - [Features](#features)
@@ -49,9 +53,7 @@ The application uses an SQLite database (`student.db`) preloaded with the follow
 - **Marks**: Student's marks in the subject.
 
 Sample records:
-- Trimal, Data Science, D, 94
-- Ram, Data Engineering, D, 93
-- Hari, ML Engineering, A, 81
+![image alt](https://github.com/Ktrimalrao/Gemini-pro-sql-llm/blob/b6b4ab865a5fabdf02d082bf2698dcaa06c5172f/Screenshot%202024-12-28%20211620.png)
 
 ---
 
