@@ -9,7 +9,10 @@ The **SQL Query Retrieval Using Gemini LLM** project is a natural language proce
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
+<<<<<<< HEAD
 - [Steps](#steps)
+=======
+>>>>>>> b388a7f67e81c7e2c6b4ec4d12979a194058001d
 - [Future Enhancements](#future-enhancements)
 
 ---
@@ -55,12 +58,15 @@ Sample records:
 
 ---
 
+<<<<<<< HEAD
 # Steps:
 - **run :** "python sqlite.py" -- it will print all the data which will trained Gemini-pro
 - **run :** "streamlit run sql.py"  -- now it will open a web page you will input Query
 
 ---
 
+=======
+>>>>>>> b388a7f67e81c7e2c6b4ec4d12979a194058001d
 ## Future Enhancements
 - **Support for Multiple Databases**: Enable users to upload and interact with custom databases.
 - **Advanced Query Processing**: Improve LLM prompts for handling complex SQL queries.
@@ -70,4 +76,8 @@ Sample records:
 ---
 
 For more details and the source code, visit the project repository.  
+<<<<<<< HEAD
 Simplify your database interactions today! 🚀
+=======
+Simplify your database interactions today! 🚀
+>>>>>>> b388a7f67e81c7e2c6b4ec4d12979a194058001d
