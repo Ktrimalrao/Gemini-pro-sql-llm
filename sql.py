@@ -57,4 +57,3 @@ if submit:
     for row in response:
         print(row)
         st.header(row)
-    
